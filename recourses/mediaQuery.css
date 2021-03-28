@@ -1,0 +1,33 @@
+@media only screen and (max-width:1200px){
+  .row{
+    padding:0 2%;
+    /* width:100%; */
+  }
+
+  .main-box{
+    /* border:1px solid rgb(18, 247, 30); */
+  padding-left: 2%;
+
+  }
+  body{
+    font-size: 18px;
+  }
+
+  
+.logo-name:link,
+.logo-name:visited{
+
+margin-left: 20px;
+}
+}
+
+@media only screen and (max-width:767px){
+  h4{
+    margin:25px 0 ;
+  }
+
+  .section-price{
+    padding:0;
+  }
+}
+
